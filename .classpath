@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="instructions/src/main/java"/>
+	<classpathentry kind="src" path="instructions/src/test/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="instructions/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_151/lib/missioncontrol/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Smitesh/Desktop/slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Smitesh/Desktop/jbehave-core-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Smitesh/Desktop/assertj-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Smitesh/Desktop/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Smitesh/Desktop/org.apache.commons.io.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
